@@ -1,0 +1,27 @@
+{
+  "name": "hall-booking",
+  "version": "1.0.0",
+  "description": "Hall booking task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinath1723/hall-booking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinath1723/hall-booking/issues"
+  },
+  "homepage": "https://github.com/srinath1723/hall-booking#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
